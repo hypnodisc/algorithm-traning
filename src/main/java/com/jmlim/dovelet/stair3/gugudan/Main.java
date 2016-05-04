@@ -1,4 +1,4 @@
-package com.jmlim.dovelet.stair.gugudan;
+package com.jmlim.dovelet.stair3.gugudan;
 
 import java.util.Scanner;
 
